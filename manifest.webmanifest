@@ -1,0 +1,19 @@
+{
+  "name": "Chess Master",
+  "short_name": "Chess Master",
+  "description": "Личен шахматен треньор: уроци, пъзели по слабите места, дебюти и игра със Stockfish.",
+  "lang": "bg",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#312e2b",
+  "theme_color": "#262421",
+  "categories": ["education", "games"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

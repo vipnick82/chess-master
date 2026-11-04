@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ccd63"/><stop offset="1" stop-color="#5a8f30"/></linearGradient>
+    <pattern id="ck" width="128" height="128" patternUnits="userSpaceOnUse"><rect width="64" height="64" fill="#fff" fill-opacity=".07"/><rect x="64" y="64" width="64" height="64" fill="#fff" fill-opacity=".07"/></pattern>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#ck)"/>
+  <g transform="translate(256 262) scale(11) translate(-20.5 -21.5)">
+    <g transform="translate(0 .7)" fill="#2f4d18" fill-opacity=".35"><path d="M12.5 31.5h16.5l-1.7-5.1c3-2.6 3.9-6.8 2.3-10.4-1.9-4.5-6.9-7.4-12.1-6.7l-4 .6 2.5 2.9-5 5.5 1.8 3 5.3-1.8-3.5 5z"/><rect x="11" y="30.5" width="19" height="3.5" rx="1.7"/></g>
+    <path d="M12.5 31.5h16.5l-1.7-5.1c3-2.6 3.9-6.8 2.3-10.4-1.9-4.5-6.9-7.4-12.1-6.7l-4 .6 2.5 2.9-5 5.5 1.8 3 5.3-1.8-3.5 5z" fill="#fff"/>
+    <circle cx="19.6" cy="15.3" r="1.15" fill="#4b7a29"/>
+    <rect x="11" y="30.5" width="19" height="3.5" rx="1.7" fill="#fff"/>
+  </g>
+</svg>
